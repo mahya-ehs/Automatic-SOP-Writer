@@ -30,10 +30,6 @@ The **Automatic SOP Writer** is a data mining project designed to generate perso
  
 ## Dataset
 
-The dataset used in this project is sourced from [Dataset Name/Source]. It includes information about various universities, which is preprocessed to extract relevant keywords.
-
-### Dataset Source
-
 The dataset used in this project was obtained from [masters_portal]. This dataset contains 60425 master degree programs from around the world.
 link to the dataset provided below : 
 [masters_portal.csv.zip](https://github.com/negjafari/automatic-SOP-writer/files/13322143/masters_portal.csv.zip)
